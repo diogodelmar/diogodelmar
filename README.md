@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Diogo%20Gonçalves&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=IT%20Systems%20%26%20Networks%20·%20Computer%20Systems%20Engineering%20Student&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Diogo%20Gon%C3%A7alves&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=IT%20Systems%20%26%20Networks%20%7C%20Computer%20Systems%20Engineering%20Student&descAlignY=58&descSize=16" width="100%" />
 
 <a href="https://github.com/diogodelmar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=IT+Systems+Technician;Networks+·+Microsoft+365+·+Active+Directory;Computer+Systems+Engineering+%40+IPCA;Fixing+problems+at+the+root+🔧" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=IT+Systems+Technician;Networks+%7C+Microsoft+365+%7C+Active+Directory;Computer+Systems+Engineering+%40+IPCA;Fixing+problems+at+the+root" alt="Typing SVG" />
 </a>
 
 </div>
@@ -11,8 +11,6 @@
 ---
 
 <h2 align="center">👨‍💻 About me</h2>
-
-<div align="center">
 
 ```js
 const diogo = {
