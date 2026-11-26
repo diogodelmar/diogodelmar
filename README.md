@@ -106,6 +106,7 @@ Technical support, hardware repair and PC assembly
 <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
 
 <br/>
+<br/>
 
 **Data**
 
