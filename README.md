@@ -91,7 +91,7 @@ Technical support, hardware repair and PC assembly
 <img src="https://img.shields.io/badge/Veeam-00B336?style=for-the-badge&logo=veeam&logoColor=white" />
 <img src="https://img.shields.io/badge/GLPI-1A1A1A?style=for-the-badge" />
 
-<br/><br/>
+<br/>
 
 **Networking & monitoring**
 
@@ -104,7 +104,7 @@ Technical support, hardware repair and PC assembly
 <img src="https://img.shields.io/badge/Extreme%20Networks-6B2D8C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
 
-<br/><br/>
+<br/>
 
 **Data**
 
