@@ -1,16 +1,117 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**diogodelmar/diogodelmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Diogo%20Gonçalves&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=IT%20Systems%20%26%20Networks%20·%20Computer%20Systems%20Engineering%20Student&descAlignY=58&descSize=16" width="100%" />
 
-Here are some ideas to get you started:
+<a href="https://github.com/diogodelmar">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=IT+Systems+Technician;Networks+·+Microsoft+365+·+Active+Directory;Computer+Systems+Engineering+%40+IPCA;Fixing+problems+at+the+root+🔧" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<h2 align="center">👨‍💻 About me</h2>
+
+<div align="center">
+
+```js
+const diogo = {
+  name: "Diogo Gonçalves",
+  role: "IT Systems Technician (Systems & Networks)",
+  studying: "BSc Computer Systems Engineering — IPCA (2024 – present, evening)",
+  previously: "Professional Course in IT Systems Management & Programming — ES Henrique Medina",
+  focus: ["networking", "infrastructure", "backup & data protection"],
+  traits: ["root-cause mindset", "proactive", "documents everything"],
+  currentlyLearning: ["Veeam", "Fortinet NSE"],
+  funFact: "Works full time and studies at night ☕",
+};
+```
+
+</div>
+
+---
+
+<h2 align="center">💼 Experience</h2>
+
+<div align="center">
+
+| 📅 Period | 🏢 Company | 🧩 Role | 🛠️ Highlights |
+|:---:|:---:|:---:|:---|
+| **2025 – now** | Grupo Impetus | IT Systems Technician | AD migration (~160 users), core switch replacement, Microsoft 365, VLANs, Veeam backups, Zabbix & Grafana |
+| **2023** | CortexDigital | IT Technician Intern | Technical support, PC repair, maintenance and assembly |
+
+</div>
+
+---
+
+<h2 align="center">🚀 Featured project</h2>
+
+<div align="center">
+
+**Internal Network & IT Inventory Platform**
+SNMP management of 17 switches from 5 vendors · automatic LLDP topology · port error diagnosis · IPAM · GLPI integration
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,js,docker,nginx&theme=dark" />
+
+</div>
+
+---
+
+<h2 align="center">🧰 Tech Stack</h2>
+
+<div align="center">
+
+**Systems & infrastructure**
+
+<img src="https://skillicons.dev/icons?i=windows,linux,powershell,docker,nginx,raspberrypi&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+<img src="https://img.shields.io/badge/Veeam-00B336?style=for-the-badge&logo=veeam&logoColor=white" />
+
+**Networking & monitoring**
+
+<img src="https://skillicons.dev/icons?i=grafana&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/VLANs%20·%20SNMP%20·%20LLDP-1f6feb?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Aruba-FF8300?style=for-the-badge&logo=arubanetworks&logoColor=white" />
+<img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
+
+**Development & data**
+
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,cs,mysql,git,github&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=diogodelmar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogodelmar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+</div>
+
+---
+
+<h2 align="center">🌐 Contact</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/diogo-delmar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:diogogoncalves882@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" width="100%" />
