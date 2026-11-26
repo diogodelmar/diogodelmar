@@ -26,18 +26,23 @@ const diogo = {
 </div>
 
 ---
-
 <h2 align="center">💼 Experience</h2>
 
 <div align="center">
 
-| 📅 Period | 🏢 Company | 🧩 Role | 🛠️ Highlights |
-|:---:|:---:|:---:|:---|
-| **2025 – now** | Grupo Impetus | IT Systems Technician | AD migration (~160 users), core switch replacement, Microsoft 365, VLANs, Veeam backups, Zabbix & Grafana |
-| **2023** | CortexDigital | IT Technician Intern | Technical support, PC repair, maintenance and assembly |
+**🟢 IT Systems Technician** · Grupo Impetus
+<sub>May 2025 – present</sub>
+
+Network, Active Directory, Microsoft 365 and infrastructure for a ~160-user manufacturing company
+
+│
+
+**⚪ IT Technician Intern** · CortexDigital
+<sub>Apr 2023 – Jun 2023</sub>
+
+Technical support, hardware repair and PC assembly
 
 </div>
-
 ---
 
 h2 align="center">🚀 Featured project</h2>
