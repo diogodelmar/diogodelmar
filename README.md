@@ -92,7 +92,7 @@ Technical support, hardware repair and PC assembly
 <img src="https://img.shields.io/badge/GLPI-1A1A1A?style=for-the-badge" />
 
 <br/>
-
+<br/>
 
 **Networking & monitoring**
 
