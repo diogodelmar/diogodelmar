@@ -18,14 +18,13 @@ const diogo = {
   role: "IT Systems Technician (Systems & Networks)",
   studying: "BSc Computer Systems Engineering — IPCA (2024 – present, evening)",
   previously: "Professional Course in IT Systems Management & Programming — ES Henrique Medina",
-  focus: ["networking", "infrastructure", "backup & data protection","helpdesk"],
-  traits: ["root-cause mindset", "proactive"],,
+  focus: ["networking", "infrastructure", "backup & data protection"],
+  traits: ["root-cause mindset", "proactive"],
 };
 ```
 
-</div>
-
 ---
+
 <h2 align="center">💼 Experience</h2>
 
 <div align="center">
@@ -43,8 +42,8 @@ Network, Active Directory, Microsoft 365 and infrastructure for a ~160-user manu
 Technical support, hardware repair and PC assembly
 
 </div>
----
 
+---
 
 <h2 align="center">🚀 Featured project</h2>
 
@@ -56,7 +55,9 @@ Technical support, hardware repair and PC assembly
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,js,docker,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,js,docker,nginx,git,github&theme=dark" />
+
+<sub>Built with heavy use of AI coding tools — I designed the features, the network integration and run it in production.</sub>
 
 </div>
 
@@ -71,13 +72,15 @@ Technical support, hardware repair and PC assembly
 | 🛡️ | **Security** | IoT device inventory, with internet traffic from firewall logs (syslog) |
 | 🔔 | **Alerts** | Email notifications with confirmation and anti-spam rules |
 
+---
+
 <h2 align="center">🧰 Tech Stack</h2>
 
 <div align="center">
 
 **Systems & infrastructure**
 
-<img src="https://skillicons.dev/icons?i=windows,linux,powershell,docker,nginx,raspberrypi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=windows,powershell,docker,raspberrypi&theme=dark" />
 
 <br/>
 
@@ -85,6 +88,7 @@ Technical support, hardware repair and PC assembly
 <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
 <img src="https://img.shields.io/badge/Veeam-00B336?style=for-the-badge&logo=veeam&logoColor=white" />
+<img src="https://img.shields.io/badge/GLPI-1A1A1A?style=for-the-badge" />
 
 **Networking & monitoring**
 
@@ -92,16 +96,13 @@ Technical support, hardware repair and PC assembly
 
 <br/>
 
-<img src="https://img.shields.io/badge/VLANs%20·%20SNMP%20·%20LLDP-1f6feb?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/VLANs%20%C2%B7%20SNMP-1f6feb?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Aruba-FF8300?style=for-the-badge&logo=arubanetworks&logoColor=white" />
 <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
 
-**Development & data**
+**Data**
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,cs,mysql,git,github&theme=dark" />
-
-<br/>
-
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
 </div>
