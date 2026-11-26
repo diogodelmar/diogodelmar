@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Diogo%20Gon%C3%A7alves&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=IT%20Systems%20and%20Networks%20%7C%20Computer%20Systems%20Engineering%20Student&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e5f74&height=200&section=header&text=Diogo%20Gon%C3%A7alves&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=IT%20Systems%20and%20Networks%20%7C%20Computer%20Systems%20Engineering%20Student&descAlignY=58&descSize=16" width="100%" />
 
 <a href="https://github.com/diogodelmar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=IT+Systems+Technician;Networks+%7C+Microsoft+365+%7C+Active+Directory;Computer+Systems+Engineering+%40+IPCA;Fixing+problems+at+the+root" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8ECFE6&center=true&vCenter=true&width=650&lines=IT+Systems+Technician;Networks+%7C+Microsoft+365+%7C+Active+Directory;Computer+Systems+Engineering+%40+IPCA;Fixing+problems+at+the+root" alt="Typing SVG" />
 </a>
 
 </div>
@@ -100,7 +100,7 @@ Technical support, hardware repair and PC assembly
 
 <br/>
 
-<img src="https://img.shields.io/badge/VLANs%20%C2%B7%20SNMP-1f6feb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VLANs%20%C2%B7%20SNMP-1e5f74?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Aruba-FF8300?style=for-the-badge&logo=arubanetworks&logoColor=white" />
 <img src="https://img.shields.io/badge/Extreme%20Networks-6B2D8C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
@@ -122,12 +122,12 @@ Technical support, hardware repair and PC assembly
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=diogodelmar&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=diogodelmar&theme=tokyonight&hide_border=true&background=0d1117&ring=8ECFE6&fire=8ECFE6&currStreakLabel=8ECFE6" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=diogodelmar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=diogodelmar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8ECFE6&line=1e5f74&point=c9d1d9" width="100%" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e5f74,100:0d1117&height=120&section=footer" width="100%" />
