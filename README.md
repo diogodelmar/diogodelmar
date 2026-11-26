@@ -122,18 +122,11 @@ Technical support, hardware repair and PC assembly
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=diogodelmar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogodelmar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=diogodelmar&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
-</div>
+<br/>
 
----
-
-<h2 align="center">🌐 Contact</h2>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/diogo-delmar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=diogodelmar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9" width="100%" />
 
 </div>
 
