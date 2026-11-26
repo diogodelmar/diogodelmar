@@ -18,10 +18,8 @@ const diogo = {
   role: "IT Systems Technician (Systems & Networks)",
   studying: "BSc Computer Systems Engineering — IPCA (2024 – present, evening)",
   previously: "Professional Course in IT Systems Management & Programming — ES Henrique Medina",
-  focus: ["networking", "infrastructure", "backup & data protection"],
-  traits: ["root-cause mindset", "proactive", "documents everything"],
-  currentlyLearning: ["Veeam", "Fortinet NSE"],
-  funFact: "Works full time and studies at night ☕",
+  focus: ["networking", "infrastructure", "backup & data protection","helpdesk"],
+  traits: ["root-cause mindset", "proactive"],,
 };
 ```
 
@@ -42,18 +40,23 @@ const diogo = {
 
 ---
 
-<h2 align="center">🚀 Featured project</h2>
+h2 align="center">🚀 Featured project</h2>
 
 <div align="center">
 
-**Internal Network & IT Inventory Platform**
-SNMP management of 17 switches from 5 vendors · automatic LLDP topology · port error diagnosis · IPAM · GLPI integration
+**Internal IT Management Platform**
+Started as an SNMP switch monitor, grew into a single portal for network, inventory and infrastructure operations
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,js,docker,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,react,docker,nginx,mysql&theme=dark" />
 
 </div>
 
----
+- **Switch configuration over SNMP:** 17 switches from 5 vendors (Aruba, Avaya, HP, Enterasys, Extreme), with a before/after preview, read-back check, rollback and command history
+- **Network:** LLDP topology, port error diagnosis, IPAM on SQL Server, VLAN/subnet capacity with usage forecast
+- **Inventory:** components and toner stock, two-way GLPI integration
+- **Infrastructure:** QNAP backup and disk monitoring, firmware tracking, printer supplies 
+- **Security:** IoT device inventory, with internet traffic from firewall logs (syslog)
+- **Alerts:** email notifications with confirmation and anti-spam rules
 
 <h2 align="center">🧰 Tech Stack</h2>
 
@@ -108,7 +111,6 @@ SNMP management of 17 switches from 5 vendors · automatic LLDP topology · port
 <div align="center">
 
 <a href="https://www.linkedin.com/in/diogo-delmar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:diogogoncalves882@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
