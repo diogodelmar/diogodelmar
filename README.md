@@ -87,8 +87,11 @@ Technical support, hardware repair and PC assembly
 <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+<img src="https://img.shields.io/badge/vSphere-607078?style=for-the-badge&logo=vmware&logoColor=white" />
 <img src="https://img.shields.io/badge/Veeam-00B336?style=for-the-badge&logo=veeam&logoColor=white" />
 <img src="https://img.shields.io/badge/GLPI-1A1A1A?style=for-the-badge" />
+
+<br/><br/>
 
 **Networking & monitoring**
 
@@ -98,7 +101,10 @@ Technical support, hardware repair and PC assembly
 
 <img src="https://img.shields.io/badge/VLANs%20%C2%B7%20SNMP-1f6feb?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Aruba-FF8300?style=for-the-badge&logo=arubanetworks&logoColor=white" />
+<img src="https://img.shields.io/badge/Extreme%20Networks-6B2D8C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
+
+<br/><br/>
 
 **Data**
 
