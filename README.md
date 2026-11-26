@@ -45,23 +45,30 @@ Technical support, hardware repair and PC assembly
 </div>
 ---
 
-h2 align="center">🚀 Featured project</h2>
+<h2 align="center">🚀 Featured project</h2>
 
 <div align="center">
 
-**Internal IT Management Platform**
-Started as an SNMP switch monitor, grew into a single portal for network, inventory and infrastructure operations
+### Internal IT Management Platform
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,ts,react,docker,nginx,mysql&theme=dark" />
+<sub>Started as an SNMP switch monitor, grew into a single portal for network, inventory and infrastructure operations</sub>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,js,docker,nginx&theme=dark" />
 
 </div>
 
-- **Switch configuration over SNMP:** 17 switches from 5 vendors (Aruba, Avaya, HP, Enterasys, Extreme), with a before/after preview, read-back check, rollback and command history
-- **Network:** LLDP topology, port error diagnosis, IPAM on SQL Server, VLAN/subnet capacity with usage forecast
-- **Inventory:** components and toner stock, two-way GLPI integration
-- **Infrastructure:** QNAP backup and disk monitoring, firmware tracking, printer supplies 
-- **Security:** IoT device inventory, with internet traffic from firewall logs (syslog)
-- **Alerts:** email notifications with confirmation and anti-spam rules
+<br/>
+
+| | Area | What it does |
+|:---:|:---|:---|
+| 🔀 | **Switch configuration** | SNMP config of 17 switches from 5 vendors (Aruba, Avaya, HP, Enterasys, Extreme), with before/after preview, read-back check, rollback and command history |
+| 🌐 | **Network** | LLDP topology, port error diagnosis, IPAM on SQL Server, VLAN/subnet capacity with usage forecast |
+| 📦 | **Inventory** | Components and toner stock, two-way GLPI integration |
+| 🖥️ | **Infrastructure** | QNAP backup and disk monitoring, firmware tracking, printer supplies |
+| 🛡️ | **Security** | IoT device inventory, with internet traffic from firewall logs (syslog) |
+| 🔔 | **Alerts** | Email notifications with confirmation and anti-spam rules |
 
 <h2 align="center">🧰 Tech Stack</h2>
 
